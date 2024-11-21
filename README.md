@@ -26,6 +26,7 @@ You can click the Preview link to take a look at your changes.
 | Public Health Study Using Python | Analysis of undernutrition and global food availability data for 2017, calculation of food availability proportions for human and animal consumption, identification of countries most affected by undernutrition. | Python, Pandas, Numpy, Matplotlib, Seaborn |
 | Creation and Use of a Real Estate Database with SQL | Preparation of the data dictionary, normalization of the relational schema, creation of tables and insertion of data in SQLite, writing and execution of SQL queries to analyze the market. | SQL, SQLite, MySQL |
 
+                                                                      ----
 
 | Projet | Résumé | Langages et Outils |
 |--------|--------|---------------------|
