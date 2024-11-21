@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 | Project | Summary | Languages and Tools |
 |---------|---------|----------------------|
-| Automatic Detection of Counterfeit Banknotes for ONCFM | Data preparation and cleaning, data exploration, model training, model selection, and implementation of the final algorithm. | Python, Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn |
+| [Automatic Detection of Counterfeit Banknotes for ONCFM](https://github.com/Bastien-Rab/Detection_faux_billets) | Data preparation and cleaning, data exploration, model training, model selection, and implementation of the final algorithm. | Python, Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn |
 | Market Analysis for International Export of Agricultural Products | Analysis of FAO data to identify target country groups for poultry exports, data preparation and cleaning, hierarchical clustering, k-means clustering, principal component analysis. | Python, Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn |
 | Creation of a Dashboard to Visualize Access to Drinking Water | Development of an interactive dashboard to visualize access to drinking water in different countries, analysis of key indicators based on DWFA expertise areas, use of Tableau. | Tableau |
 | Creation of a Dashboard for Project Progress Monitoring | Development of an interactive dashboard to track project progress, costs, and performance. Automation of data cleaning processes using Power Query Editor in Power BI. | Power BI, Power Query |
