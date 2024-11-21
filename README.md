@@ -30,7 +30,7 @@ You can click the Preview link to take a look at your changes.
 
 | Projet | Résumé | Langages et Outils |
 |--------|--------|---------------------|
-| Détection automatique de faux billets pour l’ONCFM | Préparation et nettoyage des données, exploration des données, entraînement des modèles, sélection du modèle final et implémentation de l'algorithme final. | Python, Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn |
+| [Détection automatique de faux billets pour l’ONCFM](https://github.com/Bastien-Rab/Detection_faux_billets) | Préparation et nettoyage des données, exploration des données, entraînement des modèles, sélection du modèle final et implémentation de l'algorithme final. | Python, Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn |
 | Analyse de marché pour l'exportation internationale de produits agroalimentaires | Analyse des données de la FAO pour identifier les groupes de pays cibles pour l'exportation de poulets, préparation et nettoyage des données, classification ascendante hiérarchique, méthode des k-means, analyse en composantes principales. | Python, Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn |
 | Création d'un tableau de bord pour visualiser l'accès à l'eau potable | Développement d’un tableau de bord interactif pour visualiser l'accès à l'eau potable dans différents pays, analyse des indicateurs clés basés sur les domaines d'expertise de la DWFA, utilisation de Tableau. | Tableau |
 | Création d’un tableau de bord pour le suivi d'avancement des projets | Développement d’un tableau de bord interactif permettant de suivre l’avancement des projets, les coûts, et les performances. Automatisation des processus de nettoyage des données avec Power Query Editor dans Power BI. | Power BI, Power Query |
