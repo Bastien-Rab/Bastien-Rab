@@ -26,7 +26,9 @@ You can click the Preview link to take a look at your changes.
 | [Étude de santé publique avec Python](https://github.com/Bastien-Rab/Etude_sante_publique) | Analyse des données sur la sous-nutrition et la disponibilité alimentaire mondiale en 2017, calcul des proportions de disponibilité alimentaire pour la consommation humaine et animale, identification des pays les plus touchés par la sous-nutrition. | Python, Pandas, Numpy, Matplotlib, Seaborn |
 | [Création et utilisation d'une base de données immobilière avec SQL](https://github.com/Bastien-Rab/Creation_BDD_Immobilier) | Préparation du dictionnaire de données, normalisation du schéma relationnel, création de tables et insertion de données dans SQLite, écriture et exécution de requêtes SQL pour analyser le marché. | SQL, SQLite, MySQL|
 
-&nbsp;  
+---
+
+---
   
 
 | Project | Summary | Languages and Tools |
