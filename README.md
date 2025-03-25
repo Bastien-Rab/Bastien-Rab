@@ -1,7 +1,7 @@
 👋 Hi, I’m @Bastien-Rab
 👀 I’m interested in data analytics, project management, and digital transformation, especially within the banking and finance sector.
 
-🌱 I’m currently learning data analytics through OpenClassrooms, gaining skills in Python, SQL, Power BI, Tableau, and Excel.
+🌱 I’m currently learning data analytics and data engineering through OpenClassrooms, gaining skills in Python, SQL, ETL/ELT and modern stack data...
 
 💞️ I’m looking to collaborate on data-driven projects that involve business process optimization and change management.
 
