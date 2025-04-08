@@ -16,6 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 | Projet | Résumé | Langages et Outils |
 |--------|--------|---------------------|
+| [Strava Data Pipeline](https://github.com/Bastien-Rab/strava-data-pipeline) | Construire un pipeline de données ELT complet à partir de mes données Strava : extraction via API, stockage dans PostgreSQL, transformation avec DBT, et analyses statistiques dans un notebook. Objectif : suivre l’évolution de mes performances sportives dans le temps. | Python, PostgreSQL, DBT, API Strava, Pandas, Matplotlib, Seaborn |
 | [Détection automatique de faux billets pour l’ONCFM](https://github.com/Bastien-Rab/Detection_faux_billets) | Préparation et nettoyage des données, exploration des données, entraînement des modèles, sélection du modèle final et implémentation de l'algorithme final. | Python, Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn |
 | [Analyse de marché pour l'exportation internationale de produits agroalimentaires](https://github.com/Bastien-Rab/Etude_de_marche_agroalimentaire) | Analyse des données de la FAO pour identifier les groupes de pays cibles pour l'exportation de poulets, préparation et nettoyage des données, classification ascendante hiérarchique, méthode des k-means, analyse en composantes principales. | Python, Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn |
 | [Création d'un tableau de bord pour visualiser l'accès à l'eau potable](https://github.com/Bastien-Rab/Etude_eau_potable_monde) | Développement d’un tableau de bord interactif pour visualiser l'accès à l'eau potable dans différents pays, analyse des indicateurs clés basés sur les domaines d'expertise de la DWFA, utilisation de Tableau. | Tableau |
@@ -25,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 | [Analyse des ventes caviste en ligne](https://github.com/Bastien-Rab/Analyse_vente_caviste)| Rapprochement manuel des exports ERP et CMS, calcul des ventes par produit et des ventes totales en ligne, détection et analyse des valeurs aberrantes des prix à l'aide de représentations graphiques. | Python, Pandas, Numpy, Matplotlib, Seaborn |
 | [Étude de santé publique avec Python](https://github.com/Bastien-Rab/Etude_sante_publique) | Analyse des données sur la sous-nutrition et la disponibilité alimentaire mondiale en 2017, calcul des proportions de disponibilité alimentaire pour la consommation humaine et animale, identification des pays les plus touchés par la sous-nutrition. | Python, Pandas, Numpy, Matplotlib, Seaborn |
 | [Création et utilisation d'une base de données immobilière avec SQL](https://github.com/Bastien-Rab/Creation_BDD_Immobilier) | Préparation du dictionnaire de données, normalisation du schéma relationnel, création de tables et insertion de données dans SQLite, écriture et exécution de requêtes SQL pour analyser le marché. | SQL, SQLite, MySQL|
-| [Strava Data Pipeline](https://github.com/Bastien-Rab/strava-data-pipeline) | Construire un pipeline de données ELT complet à partir de mes données Strava : extraction via API, stockage dans PostgreSQL, transformation avec DBT, et analyses statistiques dans un notebook. Objectif : suivre l’évolution de mes performances sportives dans le temps. | Python, PostgreSQL, DBT, API Strava, Pandas, Matplotlib, Seaborn |
+
 
 
 ---
@@ -35,6 +36,7 @@ You can click the Preview link to take a look at your changes.
 
 | Project | Summary | Languages and Tools |
 |---------|---------|----------------------|
+| [Strava Data Pipeline](https://github.com/Bastien-Rab/strava-data-pipeline) | Built a complete ELT data pipeline using my own Strava data: extraction via the API, storage in PostgreSQL, transformation with DBT, and statistical analysis in a Jupyter notebook. Objective: track and analyze the evolution of my athletic performance over time. | Python, PostgreSQL, DBT, Strava API, Pandas, Matplotlib, Seaborn |
 | [Automatic Detection of Counterfeit Banknotes for ONCFM](https://github.com/Bastien-Rab/Detection_faux_billets) | Data preparation and cleaning, data exploration, model training, model selection, and implementation of the final algorithm. | Python, Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn |
 | [Market Analysis for International Export of Agricultural Products](https://github.com/Bastien-Rab/Etude_de_marche_agroalimentaire) | Analysis of FAO data to identify target country groups for poultry exports, data preparation and cleaning, hierarchical clustering, k-means clustering, principal component analysis. | Python, Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn |
 | [Creation of a Dashboard to Visualize Access to Drinking Water](https://github.com/Bastien-Rab/Etude_eau_potable_monde) | Development of an interactive dashboard to visualize access to drinking water in different countries, analysis of key indicators based on DWFA expertise areas, use of Tableau. | Tableau |
@@ -44,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 | [Analysis of Online Wine shop Sales](https://github.com/Bastien-Rab/Analyse_vente_caviste) | Manual reconciliation of ERP and CMS exports, calculation of sales per product and total online sales, detection and analysis of price outliers with graphical representation. | Python, Pandas, Numpy, Matplotlib, Seaborn |
 | [Public Health Study Using Python](https://github.com/Bastien-Rab/Etude_sante_publique) | Analysis of undernutrition and global food availability data for 2017, calculation of food availability proportions for human and animal consumption, identification of countries most affected by undernutrition. | Python, Pandas, Numpy, Matplotlib, Seaborn |
 | [Creation and Use of a Real Estate Database with SQL](https://github.com/Bastien-Rab/Creation_BDD_Immobilier) | Preparation of the data dictionary, normalization of the relational schema, creation of tables and insertion of data in SQLite, writing and execution of SQL queries to analyze the market. | SQL, SQLite, MySQL |
-| [Strava Data Pipeline](https://github.com/Bastien-Rab/strava-data-pipeline) | Built a complete ELT data pipeline using my own Strava data: extraction via the API, storage in PostgreSQL, transformation with DBT, and statistical analysis in a Jupyter notebook. Objective: track and analyze the evolution of my athletic performance over time. | Python, PostgreSQL, DBT, Strava API, Pandas, Matplotlib, Seaborn |
+
 
